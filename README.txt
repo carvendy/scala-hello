@@ -1,1 +1,1 @@
-ѧϰscala demo
+学习scala demo
