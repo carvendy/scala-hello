@@ -10,8 +10,10 @@ object TestOperator {
     println(getNumber(n))
     println(getNumber(num))
     //println(getNumber(doubleN))报错
-    
-    
+    val a =  +1
+    val aa = 1.unary_+
+    val b= 1.unary_~
+    println("aa:"+aa+",b"+b)
   }
   
   
