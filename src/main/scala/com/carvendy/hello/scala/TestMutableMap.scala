@@ -1,4 +1,4 @@
-package com.carvendy.hello_scala
+package com.carvendy.hello.scala
 
 object TestMutableMap {
   def main(args: Array[String]): Unit = {
